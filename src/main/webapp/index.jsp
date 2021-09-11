@@ -8,7 +8,9 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h2>Hello World!</h2>
-		<p>Hello I'm there</p>
+       <a href="https://www.facebook.com">Visit Facebook</a>
+	    <a href="https://www.instagram.com">Visit Instagram</a>
+		 <a href="https://www.cricbuzz.com">Visit for cricket scores</a>
+		  <a href="https://www.youtube.com">Visit youtube</a>
     </body>
 </html>
