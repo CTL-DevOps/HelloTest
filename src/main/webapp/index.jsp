@@ -8,9 +8,9 @@
         <title>JSP Page</title>
     </head>
     <body>
-       <a href="https://www.facebook.com">Visit Facebook</a>
-	    <a href="https://www.instagram.com">Visit Instagram</a>
-		 <a href="https://www.cricbuzz.com">Visit for cricket scores</a>
-		  <a href="https://www.youtube.com">Visit youtube</a>
+       <a href="https://www.facebook.com">Visit Facebook</a></br>
+	    <a href="https://www.instagram.com">Visit Instagram</a></br>
+		 <a href="https://www.cricbuzz.com">Visit for cricket scores</a></br>
+		  <a href="https://www.youtube.com">Visit youtube</a></br>
     </body>
 </html>

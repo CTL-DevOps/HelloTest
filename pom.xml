@@ -23,6 +23,8 @@
       <version>2.1</version>
       <scope>provided</scope>
     </dependency>
+	<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-javadoc-plugin -->
+
 	<dependency>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>sonar-maven-plugin</artifactId>
@@ -30,6 +32,8 @@
 	<type>pom</type>
 </dependency>
   </dependencies>
+  
+  
 <profiles>
 	<profile>
 	  <id>sonar</id>
